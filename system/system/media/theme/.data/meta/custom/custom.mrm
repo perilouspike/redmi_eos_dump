@@ -1,0 +1,12 @@
+[
+    {
+        "subject": "selenedefault",
+        "international": true,
+        "hwversion": [
+            "*"
+        ],
+        "local": {
+            "id": "0"
+        }
+    }
+]

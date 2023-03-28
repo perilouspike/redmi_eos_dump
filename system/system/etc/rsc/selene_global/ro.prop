@@ -1,0 +1,4 @@
+ro.mediatek.rsc_name=selene_global
+ro.sys.current_rsc_path=/system/etc/rsc/selene_global
+ro.product.current_rsc_path=/product/etc/rsc/selene_global
+ro.sys_ext.current_rsc_path=/system/system_ext/etc/rsc/selene_global
